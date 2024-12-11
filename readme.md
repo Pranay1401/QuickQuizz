@@ -1,4 +1,4 @@
-# Quiz web app
+# QuickQuizz Web Application
 Where you can create your own quizzes, play in numerous of quizzes and compare your statistics with others in the Leaderboard of each challenge.
 
 
